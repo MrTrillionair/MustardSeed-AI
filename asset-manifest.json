@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MustardSeed-AI/static/css/main.e6c13ad2.css",
-    "main.js": "/MustardSeed-AI/static/js/main.f5c7e100.js",
+    "main.js": "/MustardSeed-AI/static/js/main.efed0364.js",
     "static/js/453.419a5d54.chunk.js": "/MustardSeed-AI/static/js/453.419a5d54.chunk.js",
     "index.html": "/MustardSeed-AI/index.html",
     "main.e6c13ad2.css.map": "/MustardSeed-AI/static/css/main.e6c13ad2.css.map",
-    "main.f5c7e100.js.map": "/MustardSeed-AI/static/js/main.f5c7e100.js.map",
+    "main.efed0364.js.map": "/MustardSeed-AI/static/js/main.efed0364.js.map",
     "453.419a5d54.chunk.js.map": "/MustardSeed-AI/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f5c7e100.js"
+    "static/js/main.efed0364.js"
   ]
 }
